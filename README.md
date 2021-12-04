@@ -1,1 +1,1 @@
-# Explaning blackbox model with LIME
+Description: Despite a booming adoption of machine learning in making critical decisions, many machine learning models remain black boxes. Trust and ethical challenges of using machine learning in making decisions come into the picture. In order not to blindly trust machine learning models, this project employes a framework called LIME (Local interpretable Model Agnostic to understand model’s behaviors, the decisions it makes, and any associated potential pitfalls.
